@@ -1,5 +1,5 @@
 <channels>
-<channel><name>[COLOR red]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR red]|[/COLOR]</name>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/0/items/20200213092229/20200213_081520.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/RAPOSO/master/FILMES</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
@@ -11,7 +11,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
-<channel><name>[COLOR red]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR red]|[/COLOR]</name>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/0/items/20200213092229/20200213_092356.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart>
@@ -24,7 +24,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
-<channel><name>[COLOR red]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]ANIMES[/COLOR] [COLOR red]|[/COLOR]</name>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]ANIMES[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/0/items/20200213092229/20200213_092638.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
@@ -36,7 +36,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
-<channel><name>[COLOR red]|||[/COLOR][COLOR white]|||[/COLOR] [COLOR white]REDE CANAIS[/COLOR] [COLOR red]|[/COLOR]</name>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]REDE CANAIS[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://ia801406.us.archive.org/0/items/20200213092229/20200213_092524.png</thumbnail>
 <externallink>https://raw.githubusercontent.com</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
