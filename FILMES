@@ -107,6 +107,18 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]GUERRA[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://ia601400.us.archive.org/29/items/guerra_202002/guerra.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- TIRO PORRADA e BOMBA -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]SUSPENSE[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://ia601402.us.archive.org/19/items/suspense_202002/SUSPENSE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/SUSPENSE</externallink>
