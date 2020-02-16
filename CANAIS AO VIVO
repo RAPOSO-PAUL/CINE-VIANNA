@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="TV A CABO",ESPN BRASIL
-https:\\playplusespn-lh.akamaihd.net\i\pp_espnbra@374460\master.m3u
+<item><title>ESPN BRASIL</title>
+<link>https:\\playplusespn-lh.akamaihd.net\i\pp_espnbra@374460\master.m3u</link>
+<thumbnail>https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png</thumbnail>
