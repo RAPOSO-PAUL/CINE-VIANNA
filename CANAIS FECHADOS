@@ -1,2 +1,2 @@
-#EXTINF:-1 espnbrasil-id="" espnbrasil-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/10/divulgacao-563x338.png" group-title="TV ONLINE",SPORTV
-https://live.multicanais.com/mylive/sportvhd/video.m3u8?md5=hZT1OecnsY99gmppgc7G-Q&expires=1581880807
+#EXTINF:-1 type="stream tvg-id="SPORTV" tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/10/divulgacao-563x338.png" group-title="ESPORTES",SPORTV
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv_91dfde1d_423ef6457295a00926a871363da8b01d4810e494/playlist.m3u8
