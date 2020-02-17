@@ -1,2 +1,2 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png" group-title="CANAL ABERTO",Globo HD
+#EXTINF:0 type="stream" channelId="2892" tvg-group="CANAL ABERTO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20130907234351!Redeglobo.png", Globo HD
 http://200.194.238.226:5000/live/x16t_rbs/playlist.m3u8
