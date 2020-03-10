@@ -8,11 +8,3 @@
 </channel>
 </channels> 
 
-<channels>
-<channel><name>Procurar</name>
-<thumbnail>http://informationaboutsearchengine.yolasite.com/resources/internet_search.png</thumbnail>
-<fanart>http://</fanart>
-<externallink>http://ignoreme</externallink>
-<jsonrpc>plugin://plugin.video.cine-viannasearch/?action=search</jsonrpc>
-</channel>
-</channels>
