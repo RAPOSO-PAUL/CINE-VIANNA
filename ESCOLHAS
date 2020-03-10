@@ -8,10 +8,11 @@
 </channel>
 </channels> 
 
-<item>
-<title>Procurar</title>
+<channels>
+<channel><name>Procurar</name>
 <thumbnail>http://informationaboutsearchengine.yolasite.com/resources/internet_search.png</thumbnail>
 <fanart>http://</fanart>
-<link>http://ignoreme</link>
+<externallink>http://ignoreme</externallink>
 <jsonrpc>plugin://plugin.video.cine-viannasearch/?action=search</jsonrpc>
-</item>
+</channel>
+</channels>
