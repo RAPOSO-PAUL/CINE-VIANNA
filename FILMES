@@ -42,19 +42,7 @@
 
 [COLOR red]|[/COLOR]- OS MELHORES DESENHOS -[COLOR white]|[/COLOR]</info>
 </channel>
-</channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]ARTES MARCIAIS[/COLOR] [COLOR red]|[/COLOR]</name>
-<thumbnail>https://archive.org/download/marciais/marciais.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/ARTES%20MARCIAIS</externallink>
-<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
-
-[COLOR red]|[/COLOR]- HORA da PORRADARIA -[COLOR white]|[/COLOR]</info>
-</channel>
-</channels> 
+</channels>  
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -173,6 +161,18 @@
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
 
 [COLOR red]|[/COLOR]- AO INFINITO E ALÉM -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]LUTAS[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.ibb.co/fGx8r0D/lutas.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/LUTAS</externallink>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- HORA da PORRADARIA -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
 
