@@ -1,1 +1,14 @@
-https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/FILMES/search.php?q=%KEYWORD1%
+<table width=120 cellspacing=0 cellpadding=3>
+<script>function VerTextoBS(oForm){if (oForm.Texto.value==''){alert('Digite antes sua busca.');oForm.Texto.focus();return false;}else{return true;}}</script>
+<form name=FormBuscaSimples method=GET action="ListaProdutos.asp" onSubmit="return VerTextoBS(this);">
+<input type=hidden name=IDLoja value="https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/FILMES">
+<input type=hidden name=Y value="<Y>">
+<input type=hidden name=BuscaNomeRef value=True>
+<input type=hidden name=Digitada value=True>
+<tr><td colspan=2><b>Procurar: </b></td></tr>
+<tr>
+<td><input type=text name=Texto class=InputTextBusca style="width:90px;"></td>
+<td><input type=image name=ok src="<BaseLoja>images/BotOkBusca.gif"></td></form>
+</tr>
+<tr><td align=right colspan=2><a href="/BuscaAvancada.asp"><font color=#990000>busca detalhada</a></td></tr>
+</table>
