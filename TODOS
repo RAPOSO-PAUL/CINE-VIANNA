@@ -107,7 +107,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8be798fac35b8f69d8ca1ff6ef46342e3ef7480&dn=Em%20Busca%20de%20Zoe%202020%20(720p)&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce</link>
 <thumbnail>https://cenasdecinema.com/wp-content/uploads/2020/04/Em-busca-de-zoe_poster.jpg</thumbnail>
 <fanart>https://cdn.fstatic.com/media/movies/covers/2019/07/Saving-Zoe-Film-1.jpg</fanart>
-<info>Faz um ano do assassinato de sua irmã mais velha, e Echo (Laura Marano) ainda está longe de estar completamente bem. Echo tem tentado ser forte, enquanto sua mãe toma muitos antidepressivos e seu pai trabalha demais. Mas no início do ano em seu primeiro ano do ensino médio, Echo recebe um presente improvável do antigo namorado de Zoe (Vanessa Marano): o seu diário. Echo hesita em lê-lo, mas não consegue largá-lo depois de ser tomada pela vida secreta de Zoe.</info>
+<info>Faz um ano do assassinato de sua irmã mais velha, e Echo (Laura Marano) ainda está longe de ecompletamente bem. Echo tem tentado ser forte, enquanto sua mãe toma muitos antidepressivos e seu pai trabalha demais. Mas no início do ano em seu primeiro ano do ensino médio, Echo recebe um presente improvável do antigo namorado de Zoe (Vanessa Marano): o seu diário. Echo hesita em lê-lo, mas não consegue largá-lo depois de ser tomada pela vida secreta de Zoe.</info>
 </item>
 
 <item>
@@ -444,6 +444,14 @@
 <thumbnail>https://http2.mlstatic.com/poster-star-wars-os-ultimos-jedi-the-last-jedi-d-40x60-D_NQ_NP_992691-MLB26526266548_122017-F.jpg</thumbnail>
 <fanart>https://http2.mlstatic.com/poster-banner-festa-star-wars-the-last-asenso-jedi-150x1m-D_NQ_NP_732509-MLB26623809403_012018-F.jpg</fanart>
 <info>A tranquila e solitária vida de Luke Skywalker sofre uma reviravolta quando ele conhece Rey, uma jovem que mostra fortes sinais da Força. O desejo dela de aprender o estilo dos Jedi força Luke a tomar uma decisão que mudará sua vida para sempre. Enquanto isso, Kylo Ren e o General Hux lideram a Primeira Ordem para um ataque total contra Leia e a Resistência pela supremacia da galáxia.</info>
+</item>
+
+<item>
+<title>[COLOR white]Star Wars - O Despertar da Forca[/COLOR][COLOR red][/COLOR][COLOR yellow] (2015) Dual Áudio[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f24af07e9302197129653fe59330c720bb07392d</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/a/ae/Starwars_06.jpg</thumbnail>
+<fanart>https://tecnoblog.net/wp-content/uploads/2015/12/tfa_poster_wide_header-1536x864-3243973893571.jpg</fanart>
+<info>A queda de Darth Vader e do Império levou ao surgimento de uma nova força sombria: a Primeira Ordem. Eles procuram o jedi Luke Skywalker, desaparecido. A resistência tenta desesperadamente encontrá-lo antes para salvar a galáxia.</info>
 </item>
 
 <item>
