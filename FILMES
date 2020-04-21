@@ -224,3 +224,9 @@
 </channel>
 </channels>
 
+def Busca(): # 160
+	AddDir("[COLOR withe][B][Nova Busca][/B][/COLOR]", "" , 50 ,"", isFolder=False)
+	d = xbmcgui.Dialog().input("Busca (poder demorar a carregar os resultados)").replace(" ", "+")
+	if not d:
+		return Filmes()
+		sys.exit(int(sys.argv[1]))
