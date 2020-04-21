@@ -1,4 +1,3 @@
-<channels>
 <item>
 <title>[COLOR white]Mortal Kombat Legends a Vingança de Scorpion[/COLOR][COLOR yellow] (2020) Dual Áudio [/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:772d68e164740ae78754afdf6015e5f6c098d804&dn=COMANDO.TO%20-%20Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion%202020%20[720p]%20[DUAL]&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://glotorrents.pw:6969/announce&tr=udp://tracker4.piratux.com:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=http://t2.pow7.com/announce&tr=udp://tracker.yify-torrents.com:80/announce&tr=http://www.h33t.com:3310/announce&tr=http://exodus.desync.com/announce&tr=http://tracker.coppersurfer.tk:6969/announce&tr=http://bt.careland.com.cn:6969/announce&tr=http://exodus.desync.com:6969/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.istole.it:80/announce&tr=http://tracker.blazing.de/announce&tr=udp://tracker.openbittorrent.com:80/announce&tr=http://tracker.yify-torrents.com/announce&tr=udp://tracker.prq.to/announce&tr=udp://tracker.1337x.org:80/announce&tr=udp://9.rarbg.com:2740/announce&tr=udp://tracker.ex.ua:80/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://12.rarbg.me:80/announce&tr=udp://tracker.publicbt.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://11.rarbg.com/announce&tr=udp://tracker.ccc.de:80/announce&tr=udp://fr33dom.h33t.com:3310/announce&tr=udp://public.popcorn-tracker.org:6969/announce</link>
@@ -423,11 +422,10 @@
 <info>Início do século XX. Thomas Wake (Willem Dafoe), responsável pelo farol de uma ilha isolada, contrata o jovem Ephraim Winslow (Robert Pattinson) para substituir o ajudante anterior e colaborar nas tarefas diárias. No entanto, o acesso ao farol é mantido fechado ao novato, que se torna cada vez mais curioso com este espaço privado. Enquanto os dois homens se conhecem e se provocam, Ephraim fica obcecado em descobrir o que acontece naquele espaço fechado, ao mesmo tempo em que fenômenos estranhos começam a acontecer ao seu redor.</info>
 </item>
 
-<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]Próxima Página[/COLOR] [COLOR red]|[/COLOR]</name>
-<thumbnail>https://images.emojiterra.com/google/android-nougat/512px/27a1.png</thumbnail>
+<item>
+<title>[COLOR white]Próxima Página[/COLOR][COLOR yellow][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA-LINK-DIRETO/master/TODOS-PG2</externallink>
-<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
-
-[COLOR red]|[/COLOR]- Passar para a próxima página da categoria todos. -[COLOR white]|[/COLOR]</info>
-</channel>
-</channels>
+<thumbnail>https://images.emojiterra.com/google/android-nougat/512px/27a1.png</thumbnail>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart>
+<info>Passar para a próxima página da categoria todos.</info>
+</item>
