@@ -1,4 +1,16 @@
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]DE A-Z[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.ibb.co/jM6gK57/a-z-0-9.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/POR-ORDEM-ALFABETICA</externallink>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Lista dos Filmes em Ordem Alfabética e Numérica -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]TODOS[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/qyDB4vt/todos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/TODOS</externallink>
