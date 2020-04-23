@@ -1,4 +1,2 @@
-#EXTM3U
- 
-EXTINF:-1 tvg-logo="https://media.fstatic.com/xJrda8N0qUy19T5spkAkZGkWefk=/fit-in/290x478/smart/media/movies/covers/2015/05/um-conto-do-destino_t56694.jpg" group-title="ROMANCE", Um Conto do Destino
+EXTINF:0 tvg-logo="https://media.fstatic.com/xJrda8N0qUy19T5spkAkZGkWefk=/fit-in/290x478/smart/media/movies/covers/2015/05/um-conto-do-destino_t56694.jpg" group-title="ROMANCE", Um Conto do Destino
 http://pairing:58024694656850D75C2655CAA1D3E07A03C4BD2B@127.0.0.1:32026/proxy?sid=c&file=0&token=58024694656850D75C2655CAA1D3E07A03C4BD2B&pairing=58024694656850D75C2655CAA1D3E07A03C4BD2B&service=STREAMING
