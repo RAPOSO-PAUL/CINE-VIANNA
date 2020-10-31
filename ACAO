@@ -7,7 +7,7 @@
     <regex>
         <name>CINE-VIANNA</name>
         <expres>source src="(.*mp4.*?)" type="</expres>
-        <page>https://mixdrop.to/e/uhdpl</page>
+        <page>http://mixdrop.to/?v=uhdpl</page>
     </regex>
 </item>
 
