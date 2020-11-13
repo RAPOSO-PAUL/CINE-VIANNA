@@ -47,6 +47,18 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]LEGENDADOS[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.ibb.co/z71G86p/icon-legendado.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/LEGENDADOS</externallink>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Dublado é para os Fracos -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]ACAO[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://ia801506.us.archive.org/17/items/20200214132308/20200214_132308.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/ACAO</externallink>
