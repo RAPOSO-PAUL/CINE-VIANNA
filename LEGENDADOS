@@ -15,18 +15,14 @@
 </item>
 
 <item>
-	<title>[COLOR=springgreen]TESTE[/COLOR]</title>
+	<title>[COLOR=springgreen]SOBRENATUAL TESTE[/COLOR]</title>
     <meta>
     <imdb>tt2226417</imdb>
     <content>movie</content>
-    <title>teste2</title>
+    <title>SOBRENATURAL TESTE</title>
     <year>2013</year>
     </meta>
-    <link>
-    <sublink name=[COLOR yellow]Trailer[/COLOR]>https://www.youtube.com/watch?v=OvebOqneLIU&feature=youtu.be (Play Trailer)</sublink>
-    <sublink name=[COLOR deepskyblue]Dublado[COLOR blue]Link[/COLOR]>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a04129f2481a986c8fd0c04667843fb5df49f85e&dn=Sobrenatural+2+%282014%29+Bluray+1080p+Legenda+Embutida&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</sublink>
-    <sublink name=[COLOR deepskyblue]Legendado [COLOR blue]Link [COLOR lightsteelblue]Link[/COLOR]>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b47dcc6e777804b72f6c8c6a2e51b36c2a1d117&dn=Os+Suspeitos+%282014%29+Bluray+1080p+Legenda+Embutida&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</sublink>
-    </link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a04129f2481a986c8fd0c04667843fb5df49f85e&dn=Sobrenatural+2+%282014%29+Bluray+1080p+Legenda+Embutida&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
     <thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/0e/Insidious_Chapter_2.jpg</thumbnail>
     <fanart>https://cosmonerd.com.br//uploads/2017/12/sobrenatural-cap%C3%ADtulo-2.jpg</fanart>
 </item>
