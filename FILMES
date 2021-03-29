@@ -23,6 +23,18 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]COLECOES[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.ibb.co/F3mL9Yc/thubnail-colecao.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/COLE%C3%87%C3%95ES</externallink>
+<fanart>https://i.ibb.co/FDcf7Vk/FANART-COLECAO.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- VEJA SUAS SEQUENCIAS PREFERIDAS -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]LANCAMENTOS 2021[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/W2JgnV1/2021-thubnail.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/LANCAMENTOS%202021</externallink>
