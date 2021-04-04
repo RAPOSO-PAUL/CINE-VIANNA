@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Agência Secreta de Controle de Magias[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Agência Secreta de Controle de Magias[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6282d7829695a622608554c20360f2feb2a13f64</link>
 <thumbnail>https://i.ibb.co/t3Z9C4b/secret-magic-control-agency-russian-movie-poster-md.jpg</thumbnail>
 <fanart>https://i.ibb.co/hsG8JWt/secrte-magic-fanart.jpg</fanart>
@@ -69,7 +69,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Na Mesma Onda[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Na Mesma Onda[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed1f526cacf4590fb4fd0d700a0d36c8ba923a34</link>
 <thumbnail>https://apostiladecinema.com.br/wp-content/uploads/2021/03/na-mesma-onda-critica-filme-netflix-poster.jpg</thumbnail>
 <fanart>https://www.jornadageek.com.br/wp-content/uploads/2021/03/Imagem-do-filme-Na-Mesma-Onda.jpg</fanart>
@@ -79,7 +79,7 @@
 </item>
 
 <item>
-<title>[COLOR white]A Semana da Minha Vida[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]A Semana da Minha Vida[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67fc700bde08da45cfa582bdba37661044ecc6bc</link>
 <thumbnail>https://i.ibb.co/NtmPFKm/a-semana-da-da-minha-vida.jpg</thumbnail>
 <fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/semana-netflix.jpg</fanart>
@@ -89,7 +89,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Educação Americana: Fraude e Privilégio[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Educação Americana: Fraude e Privilégio[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4480899f5d8c7488980d440c75a94fd52a4ce5bc</link>
 <thumbnail>https://miro.medium.com/max/4000/1*AyvN1jLBsNjAtAOZqHXDPw.jpeg</thumbnail>
 <fanart>https://images.axios.com/2tie_IC1fVwof2ELAdRioPH3PVQ=/0x173:2794x1745/1920x1080/2020/05/21/1590076913035.jpg</fanart>
@@ -99,7 +99,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Por Trás da Inocência[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Por Trás da Inocência[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c8cc2b235db614bec33e3a7edb5c6ddca9a5e04</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8dsNZdatWpv3nKuhbhbdqIy7czd.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h9idnfOs9nt8Nj2agbOjlOqTGAc.jpg</fanart>
@@ -110,9 +110,7 @@
 
 <item>
 <title>[COLOR white]Cabras da Peste[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9wAF0NtOCc4$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f16f4ff0ad0fed8436415daa2d4e91fec39b297$$lsname=[COLOR white][B]720p[/B][/COLOR][COLOR lime][B] - NACIONAL[/B][/COLOR]</link></link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5df6630975c060e69c74aaf5d79cbd1b44fe641d$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - NACIONAL[/B][/COLOR]</link></link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f16f4ff0ad0fed8436415daa2d4e91fec39b297</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/H0-sPrnnk3Q/maxresdefault.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
@@ -121,7 +119,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Liga da Justiça de Zack Snyder[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Liga da Justiça de Zack Snyder[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c8cacc0a491342496201d418b47fd98f1cd5934</link>
 <thumbnail>https://i.redd.it/suempx60u5d41.jpg</thumbnail>
 <fanart>https://blog.kabum.com.br/wp-content/uploads/2021/03/Liga-da-Justica.jpg</fanart>
@@ -131,7 +129,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Para Todos os Garotos: Agora e Para Sempre[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Para Todos os Garotos: Agora e Para Sempre[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50cbaeca9303be3259c85cf68031f226b7730d6d</link>
 <thumbnail>https://i.ibb.co/WnDSt52/2398485.jpg</thumbnail>
 <fanart>http://br.web.img2.acsta.net/newsv7/19/12/12/16/11/4363149.jpg</fanart>
@@ -141,7 +139,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Filhos de Istambul[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Filhos de Istambul[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:399d9a2c2fd4afb033e6ebd339acd4a501d70697</link>
 <thumbnail>https://ondeeubaixo.org/imagens/filhos-de-istambul-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://streamingsbrasil.com/wp-content/uploads/2021/03/filhos-de-istambul-netflix.jpg</fanart>
@@ -152,9 +150,7 @@
 
 <item>
 <title>[COLOR white]Zona de Combate[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vzor5HoCecg$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d6519e35e088f2b3dda9154eff7f780f0d0d2bd$$lsname=[COLOR white][B]720p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0957f9b1244618e034b6e865aaed313028d84405$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d6519e35e088f2b3dda9154eff7f780f0d0d2bd</link>
 <thumbnail>https://mundohype.com.br/wp-content/uploads/2021/01/zona-de-combate-poster.jpg</thumbnail>
 <fanart>https://www.jornadageek.com.br/wp-content/uploads/2021/01/Imagem-do-filme-Zona-de-Combate.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
@@ -163,7 +159,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Cherry - Inocência Perdida[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Cherry - Inocência Perdida[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8247d6e19cf7f90758a3836ae64341f7a2c0026</link>
 <thumbnail>https://cinema10.com.br/upload/filmes/filmes_15177_das%206d40as.jpg</thumbnail>
 <fanart>https://cdn3.movieweb.com/i/article/qxk3G4VUSCc5jlGQ0pdpObM6YgXByS/1200:100/Cherry-Movie-Robert-Downey-Jr-Praise.jpg</fanart>
@@ -173,7 +169,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Dia do sim[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Dia do sim[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a238523e5dc55c56c3371b84003aa6e13dd138d7</link>
 <thumbnail>https://i.ibb.co/RNPhFgj/temp1.jpg</thumbnail>
 <fanart>https://popwithpopcorn.com.br/wp-content/uploads/2021/03/dia-do-sim.jpg</fanart>
@@ -183,7 +179,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Batman: A Alma do Dragão[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Batman: A Alma do Dragão[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0ed8943874ac68900288a9f6a395d0d4724b738</link>
 <thumbnail>https://torrentoon.org/imagens/batman-a-alma-do-dragao-legendado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://www.planocritico.com/wp-content/uploads/2021/01/batman_alma_do_dragao_plano_critico.jpg</fanart>
@@ -194,8 +190,7 @@
 
 <item>
 <title>[COLOR white]A Sentinela[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6TBQwFEUBKA$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95271d2f0051e26c89569454b2a886cc84f0f290$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95271d2f0051e26c89569454b2a886cc84f0f290</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lyZVSUiaVrewRqAyTppx3XmRQP8.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/6TBQwFEUBKA/maxresdefault.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
@@ -204,7 +199,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Raya e o Último Dragão[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Raya e o Último Dragão[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:493F7C6C0D096A846E06C9A7A8F400547C28C3D5&dn=COMANDO.TO%20-%20Raya%20e%20o%20%c3%9altimo%20Drag%c3%a3o%202021%201080p%20DUAL%205.1</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/20/10/20/20/41/4769094.jpg</thumbnail>
 <fanart>https://noticiasdatv.uol.com.br/media/_versions/artigos/animacao-raya-e-o-ultimo-dragao-reproducao-disney_fixed_large.jpg</fanart>
@@ -214,7 +209,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Um Principe em Nova York 2[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Um Principe em Nova York 2[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83dab3a81af82e3f7141ed9404c4b384ef8c46cf</link>
 <thumbnail>https://uploads.jovemnerd.com.br/wp-content/uploads/2021/02/um-principe-em-ny-2-poster-a.jpg</thumbnail>
 <fanart>https://www.einerd.com.br/wp-content/uploads/2020/12/Um-Principe-em-Nova-York-2-capa.jpg</fanart>
@@ -224,7 +219,7 @@
 </item>
 
 <item>
-<title>[COLOR white]Loucura de Amor[/COLOR][COLOR yellow] (1080p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]Loucura de Amor[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a93c10a52524ef86b2dce3c2418a5ddfd952cc59</link>
 <thumbnail>https://viatorrents.com/imagens/loucura-de-amor-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://entreterse.s3.amazonaws.com/wp-content/uploads/2021/02/loucura-de-amor-6.jpg</fanart>
@@ -234,7 +229,7 @@
 </item>
 
 <item>
-<title>[COLOR white]O Homem Certo[/COLOR][COLOR yellow] (720p) Dual Áudio[/COLOR]</title>
+<title>[COLOR white]O Homem Certo[/COLOR][COLOR yellow][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d106c807e476497eec4e367a8cde3d6d9dce3ab</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sSxy2Ej25XoekfO8bl8nNyohaI7.jpg</thumbnail>
 <fanart>https://theplaylist.net/wp-content/uploads/2020/12/The-Right-One-750x400.jpg</fanart>
