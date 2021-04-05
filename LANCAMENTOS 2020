@@ -111,9 +111,7 @@
 
 <item>
 <title>[COLOR white]Entre Armas e Brinquedos[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uxFLxfYohBI$$lsname=[COLOR red][B]TRAILER[/B][/COLOR][COLOR lime][B][/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19067cd4eb56edd5b333cd20165e02f7106afeae$$lsname=[COLOR white][B]720p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1b121e467ef454320bca0f0b3bfff30bb22beb9$$lsname=[COLOR white][B]1080p[/B][/COLOR][COLOR lime][B] - DUAL AUDIO[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19067cd4eb56edd5b333cd20165e02f7106afeae</link>
 <thumbnail>https://filmehd.eu/wp-content/uploads/2020/11/Fatman.jpg</thumbnail>
 <fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2020/12/Fatman-02.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2020[/COLOR]
