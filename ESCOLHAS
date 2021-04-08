@@ -1,5 +1,5 @@
 <channels>
-<channel><name>[COLOR green]● [/COLOR][COLOR white]FILMES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]FILMES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
 <thumbnail>https://i.ibb.co/nnqyDhG/FILMES-elementum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/FILMES</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
@@ -8,7 +8,7 @@
 </channel> 
 
 <channels>
-<channel><name>[COLOR green]● [/COLOR][COLOR white]FILMES[/COLOR][COLOR blue] REDE CANAIS [/COLOR][COLOR white]LINKS DIRETOS [/COLOR]</name>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]FILMES[/COLOR][COLOR blue] REDE CANAIS [/COLOR][COLOR white]LINKS DIRETOS [/COLOR]</name>
 <thumbnail>https://i.ibb.co/y6jNVjV/FILMES-redecanais.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/REDE-CANAIS/main/FILMES</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
@@ -16,7 +16,7 @@
 [COLOR red]|[/COLOR]- Filmes Rodam através de Links Diretos -[COLOR white]|[/COLOR]</info>
 </channel> 
 
-<channel><name>[COLOR green]● [/COLOR][COLOR white]SERIES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]SERIES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
 <thumbnail>https://i.ibb.co/LzdCYY9/SERIES-elementum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/SERIES</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
@@ -24,11 +24,11 @@
 [COLOR red]|[/COLOR]- SERIES EM TORRENT ELEMENTUM -[COLOR white]|[/COLOR]</info>
 </channel> 
 
-<channel><name>[COLOR green]● [/COLOR][COLOR white]cine.vianna10@gmail.com - Para Dúvidas e pedidos de filmes e séries.[/COLOR]</name>
-<thumbnail>https://ia801406.us.archive.org/0/items/20200213092229/20200213_081520.png</thumbnail>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]DOAÇÃO - NOS AJUDE A CONTINUAR COM ESTE PROJETO | PIX: cine.vianna10@gmail.com[/COLOR]</name>
+<thumbnail>https://i.ibb.co/dDJpP06/DOACAO.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
 
-[COLOR red]|[/COLOR]- cine.vianna10@gmail.com - Para Dúvidas e pedidos de filmes e séries. -[COLOR white]|[/COLOR]</info>
+[COLOR red]|[/COLOR]- DOAÇÃO - NOS AJUDE A CONTINUAR COM ESTE PROJETO | PIX: cine.vianna10@gmail.com -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
