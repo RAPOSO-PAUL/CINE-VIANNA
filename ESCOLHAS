@@ -25,6 +25,15 @@
 [COLOR red]|[/COLOR]- Filmes Rodam através de Links Diretos -[COLOR white]|[/COLOR]</info>
 </channel> 
 
+<channels>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]NOVELAS[/COLOR][COLOR blue] REDE CANAIS [/COLOR][COLOR white]LINKS DIRETOS [/COLOR]</name>
+<thumbnail>https://i.ibb.co/N1wknrk/NOVELAS-REDECANAIS.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/NOVELAS/main/NOVELAS</externallink>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Novelas Rodam através de Links Diretos -[COLOR white]|[/COLOR]</info>
+</channel>
+
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]SERIES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
 <thumbnail>https://i.ibb.co/LzdCYY9/SERIES-elementum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/SERIES</externallink>
