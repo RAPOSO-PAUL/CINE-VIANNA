@@ -1,6 +1,7 @@
 <item>
 <title>[COLOR white]Cabras da Peste[/COLOR][COLOR yellow][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f16f4ff0ad0fed8436415daa2d4e91fec39b297</link>
+<sublink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f16f4ff0ad0fed8436415daa2d4e91fec39b297$$lsname=[COLOR white][B]DUBLADO[/B][/COLOR][COLOR lime][B][/B][/COLOR]</sublink>
+<sublink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d6519e35e088f2b3dda9154eff7f780f0d0d2bd$$lsname=[COLOR white][B]LEGENDADO[/B][/COLOR][COLOR lime][B][/B][/COLOR]</sublink>
 <thumbnail>https://image.tmdb.org/t/p/w342/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/H0-sPrnnk3Q/maxresdefault.jpg</fanart>
 <info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
