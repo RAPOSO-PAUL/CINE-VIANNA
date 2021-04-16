@@ -6,6 +6,7 @@
 
 [COLOR red]|[/COLOR]- Animes que Rodam através do ADDON ELEMENTUM -[COLOR white]|[/COLOR]</info>
 </channel> 
+</channels>
 
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]FILMES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
@@ -15,7 +16,9 @@
 
 [COLOR red]|[/COLOR]- Filmes Rodam através do ADDON ELEMENTUM -[COLOR white]|[/COLOR]</info>
 </channel> 
+</channels>
 
+<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]SERIES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
 <thumbnail>https://i.ibb.co/LzdCYY9/SERIES-elementum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/SERIES</externallink>
@@ -23,7 +26,9 @@
 
 [COLOR red]|[/COLOR]- SERIES EM TORRENT ELEMENTUM -[COLOR white]|[/COLOR]</info>
 </channel> 
+</channels>
 
+<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]DOAÇÃO - NOS AJUDE A CONTINUAR COM ESTE PROJETO | PIX: cine.vianna10@gmail.com[/COLOR]</name>
 <thumbnail>https://i.ibb.co/dDJpP06/DOACAO.jpg</thumbnail>
 <externallink></externallink>
