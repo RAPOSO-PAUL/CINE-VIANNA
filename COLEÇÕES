@@ -1,5 +1,5 @@
 <channels>
-<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR yellow]HOMEM ARANHA [/COLOR] [COLOR red]| COLEÇÕES[/COLOR]</name>
+<channel><name><name>[COLOR green][B]>> [/B][/COLOR][COLOR yellow]HOMEM ARANHA [/COLOR] [COLOR red]| [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.pinimg.com/originals/b8/a3/0a/b8a30a483cfd8db8ecebf7e5924d4eaa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/HOMEM-ARANHA</externallink>
 <fanart>https://s2.glbimg.com/9-rB0WvUAA7eCVeNZkfuxtz1Jzg=/smart/e.glbimg.com/og/ed/f/original/2020/10/14/20200503-spider-man-mcu.jpg</fanart><info> 
@@ -9,7 +9,7 @@
 </channels> 
 
 <channels>
-<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR yellow]IP MAN [/COLOR] [COLOR red]| COLEÇÕES[/COLOR]</name>
+<channel><name><name>[COLOR green][B]>> [/B][/COLOR][COLOR yellow]IP MAN [/COLOR][COLOR red]| [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/mvmtsm4/thubnail-ipman.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/IP-MAN</externallink>
 <fanart>https://img4.looper.com/img/gallery/every-ip-man-movie-ranked-worst-to-best/l-intro-1603382292.jpg</fanart><info> 
@@ -19,7 +19,17 @@
 </channels> 
 
 <channels>
-<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR yellow]SUPERMAN [/COLOR] [COLOR red]| COLEÇÕES[/COLOR]</name>
+<channel><name><name>[COLOR green][B]>> [/B][/COLOR][COLOR yellow]NACIONAIS [/COLOR][COLOR red]| [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/y59VvPz/Nacionais-elementum.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/NACIONAIS</externallink>
+<fanart>https://i.ibb.co/jGvssvQ/Nacionais-elementum-fanart.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR][COLOR white]- Filmes Que Representam o Brasil -|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel><name><name>[COLOR green][B]>> [/B][/COLOR][COLOR yellow]SUPERMAN [/COLOR][COLOR red]| [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/7zvbC09/candeeiro-decorativa-3d-superman-logo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/SUPERMAN</externallink>
 <fanart>https://s.aficionados.com.br/imagens/10-coisas-que-voce-nao-sabe-sobre-o-superman_f.jpg</fanart><info> 
