@@ -1,4 +1,14 @@
 <channels>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]ANIMES[/COLOR][COLOR blue] DIRECT [/COLOR][COLOR white] [/COLOR]</name>
+<thumbnail>https://www.dondeir.com/wp-content/uploads/2020/05/anime-streaming-plataformas.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ANIMES/main/ANIMES</externallink>
+<fanart>https://sm.ign.com/t/ign_br/screenshot/default/lancamento-animes-02_8apx.h720.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Animes que Rodam DIRECT -[COLOR white]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]ANIMES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
 <thumbnail>https://i.ibb.co/2nKgS63/animes-elementum.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ANIMES/main/ANIMES</externallink>
