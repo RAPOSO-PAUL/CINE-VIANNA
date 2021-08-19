@@ -1,16 +1,6 @@
 <channels>
-<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]ANIMES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
-<thumbnail>https://i.ibb.co/2nKgS63/animes-elementum.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ANIMES/main/ANIMES</externallink>
-<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
-
-[COLOR red]|[/COLOR]- Animes que Rodam através do ADDON ELEMENTUM -[COLOR white]|[/COLOR]</info>
-</channel> 
-</channels>
-
-<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]FILMES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
-<thumbnail>https://i.ibb.co/nnqyDhG/FILMES-elementum.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/NYYKpfT/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/FILMES</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
 
@@ -20,7 +10,7 @@
 
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]SERIES[/COLOR][COLOR green] TORRENT [/COLOR][COLOR white]ELEMENTUM [/COLOR]</name>
-<thumbnail>https://i.ibb.co/LzdCYY9/SERIES-elementum.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/cF0q9Z4/SERIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/SERIES</externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
 
@@ -30,7 +20,7 @@
 
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]DOAÇÃO - NOS AJUDE A CONTINUAR COM ESTE PROJETO | PIX: cine.vianna10@gmail.com[/COLOR]</name>
-<thumbnail>https://i.ibb.co/dDJpP06/DOACAO.jpg</thumbnail>
+<thumbnail>https://i.ibb.co/1d1fDY5/DOACAO.png</thumbnail>
 <externallink></externallink>
 <fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
 
