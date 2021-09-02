@@ -42,3 +42,12 @@
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Prime Video, é um serviço de vídeo sob demanda pela Amazon disponível em mais de 200 países.[/B][/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TELECINE[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<thumbnail>https://i.ibb.co/XfHjjvg/telecine.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/TELECINE</externallink>
+<fanart>https://i.ibb.co/zHQqXbh/telecine-fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Telecine é uma rede de canais, sendo focado em filmes que saíram do cinema.[/B][/COLOR]</info>
+</channel>
+</channels>
