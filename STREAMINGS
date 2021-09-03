@@ -44,6 +44,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]STAR[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<thumbnail>https://i.ibb.co/rmNpSZF/star-logo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/STAR</externallink>
+<fanart>https://i.ibb.co/NytdbTQ/star-fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Star é um centro de conteúdo dentro do serviço de streaming Disney+ para conteúdo de televisão e filme destinado a um público adulto.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TELECINE[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
 <thumbnail>https://i.ibb.co/XfHjjvg/telecine.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/TELECINE</externallink>
