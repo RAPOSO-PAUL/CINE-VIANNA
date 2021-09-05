@@ -8,6 +8,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HBO MAX[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<thumbnail>https://i.ibb.co/Fb7mj8q/hbo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/HBO-MAX</externallink>
+<fanart>https://i.ibb.co/YtxJ8NX/hbo-max-fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Encontre o Melhor do Entretenimento Aqui, Com Lançamentos Exclusivos e Produções Originais.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LOOKE[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
 <thumbnail>https://i.ibb.co/SJ8PBBF/looke.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/LOOKE</externallink>
