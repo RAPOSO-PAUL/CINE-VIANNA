@@ -21,6 +21,16 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FILMES HDCAM (CINEMA)[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/bKytvrV/filmes-hd-can.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Filmes Lançamentos com Imagem e vídeo abaixo de 10! -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TODOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/c1Mw2jx/TODOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/TODOS</externallink>
