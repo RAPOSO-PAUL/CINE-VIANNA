@@ -18,8 +18,6 @@
 </channel>
 </channels> 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FILMES HDCAM (CINEMA)[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/bKytvrV/filmes-hd-can.jpg</thumbnail>
@@ -40,8 +38,6 @@
 </channel>
 </channels> 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]COLECOES[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/MN86JWV/COLECOES.png</thumbnail>
@@ -52,8 +48,6 @@
 </channel>
 </channels> 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
-
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]STREAMINGS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/rk4S0Rt/streamings.png</thumbnail>
@@ -62,9 +56,17 @@
 
 [COLOR red]|[/COLOR]- Assista por plataforma -[COLOR white]|[/COLOR]</info>
 </channel>
-</channels> 
+</channels>  
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]ATORES[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/dj7ypJg/atores.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/STREAMINGS</externallink>
+<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Atores e Atrizes em ordem alfabetica -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LANCAMENTOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -75,8 +77,6 @@
 [COLOR red]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels> 
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LEGENDADO[/COLOR][COLOR yellow] ||[/COLOR]</name>
