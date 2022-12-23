@@ -152,6 +152,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JUMANJI[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/6sjMsBcIuqU44GpG5tL33KUFOQR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/JUMANJI</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Jumanji: um jogo de tabuleiro quando jogado traz os jogadores para dentro de um mundo misterioso. Eles têm que terminar o jogo para conseguir sair desta enrascada.[/B][/COLOR]</info>
+</channel>
+</channels> 
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MARVEL[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/f0xOjoWCGyMFT6zgwW7ElxcXkic.jpg</thumbnail
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/MARVEL</externallink>
