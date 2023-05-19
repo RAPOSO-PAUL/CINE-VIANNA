@@ -9,6 +9,16 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]ADICIONADOS RECENTEMENTE[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/pbN8N3X/popcorn-time-teoria-digital.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/ADICIONADOS-RECENTE</externallink>
+<fanart>https://i.ibb.co/xXjsTrb/dfl9f80-7788060c-aea7-4ff8-824c-4b3557cfd407.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- Filmes Lançamentos com Imagem e vídeo abaixo de 10! -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FILMES HDCAM (CINEMA)[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/bKytvrV/filmes-hd-can.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/HD-CAM</externallink>
