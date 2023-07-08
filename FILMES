@@ -69,7 +69,7 @@
 </channels> 
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LANCAMENTOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LANÇAMENTOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/MSRWZw2/LANCAMENTOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/LANCAMENTOS</externallink>
 <fanart>https://i.ibb.co/zPcbL9b/filmes-confirmados-2023.jpg</fanart><info> 
@@ -91,7 +91,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]ACAO[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]AÇÃO[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/84GTBq7/ACAO.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/ACAO</externallink>
 <fanart>https://i.ibb.co/b7Y5pLD/filmes-de-acao.jpg</fanart><info> 
@@ -103,7 +103,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]ANIMACAO[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]ANIMAÇÃO[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/wBHMSwf/ANIMACAO.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/ANIMA%C3%87%C3%83O</externallink>
 <fanart>https://i.ibb.co/5R6RQvk/pixar-movies.png</fanart><info> 
@@ -139,7 +139,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]COMEDIA[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]COMÉDIA[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/LvsJLHZ/COMEDIA.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/COMEDIA</externallink>
 <fanart>https://i.ibb.co/JvGFsWB/filmes-de-comedia-na-netflix.jpg</fanart><info> 
@@ -199,7 +199,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FICCÃO[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FICÇÃO[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/VTp0NRJ/FICCAO.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/FICCAO</externallink>
 <fanart>https://i.ibb.co/DD87x9H/melhores-filmes-sci-fi-ambrosia-listas-1920x1024.jpg</fanart><info> 
@@ -223,7 +223,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HEROIS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HERÓIS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/MghTHmR/HEROIS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/HEROIS</externallink>
 <fanart>https://i.ibb.co/vYwBhwd/heroi-com-mais-filmes-capa.png</fanart><info> 
