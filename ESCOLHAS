@@ -1,4 +1,14 @@
 <channels>
+<channel><name>[B][COLOR yellow]●[/COLOR] [COLOR white]CANAIS[/COLOR][/B]</name>
+<thumbnail>https://www.boxtv.app.br/wp-content/uploads/2020/12/logos-640w.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-FLIX-ON/main/CANAIS</externallink>
+<fanart>https://ia801508.us.archive.org/0/items/fanart_20200213/fanart.jpg</fanart><info> 
+
+[COLOR green]|[/COLOR]- CANAIS ABERTOS -[COLOR yellow]|[/COLOR]</info>
+</channel> 
+</channels>
+
+<channels>
 <channel><name>[B][COLOR yellow]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/NYYKpfT/FILMES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/master/FILMES</externallink>
