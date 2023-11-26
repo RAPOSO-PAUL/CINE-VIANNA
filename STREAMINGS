@@ -62,6 +62,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]PARAMOUNT +[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<thumbnail>https://i.ibb.co/sKpCbPf/paramount.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/PARAMOUNT%2B</externallink>
+<fanart>https://i.ibb.co/wcbhR7K/paramount-fanart.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Paramount+ é um serviço online de streaming norte-americano de vídeo sob demanda por assinatura lançado em 2014, de propriedade e operado pela Paramount Streaming[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]PRIME VIDEO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
 <thumbnail>https://i.ibb.co/rwKDBX3/prime.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/PRIME-VIDEO</externallink>
