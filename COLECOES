@@ -287,6 +287,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]UM LUGAR SILENCIOSO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/nWKkvy26S7oi4ULfT8zoP9FOkUy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/UM-LUGAR-SILENCIOSO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tpUHiaqCNbHO1edqUzytatbAf2Q.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Regra nº 1: não faça barulho. Regra nº 2: nunca deixe o caminho. Regra nº 3: Vermelho significa corra. [/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]VELOZES E FURIOSOS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/TttV006/fast-and-furious-6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/VELOZES-E-FURIOSOS</externallink>
