@@ -242,6 +242,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]PADDINGTON[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/mhyPC0LWbtY4hJDcYsbJvqi0a19.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/PADDINGTON</externallink>
+<fanart>https://image.tmdb.org/t/p/original/cpmSe7SerOiI1dRgQG328OaHNBl.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Uma série de filmes baseados nas histórias do personagem de mesmo nome criadas por Michael Bond. Estes seguem o personagem Paddington, um urso antropomórfico que migra das selvas do Peru.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]PLANETA DOS MACACOS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/g4RGKFHOKCWrPXncwHdmzMv1RdU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/PLANETA-DOS-MACACOS</externallink>
