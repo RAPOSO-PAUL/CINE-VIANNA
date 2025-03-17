@@ -160,7 +160,15 @@
 </channel>
 </channels> 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DOCUMENTÁRIOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/Rktbf2nX/DOCUMENTARIO.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-VIANNA/refs/heads/master/DOCUMENTARIO</externallink>
+<fanart>https://i.ibb.co/b7LqqwH/drama-cinepop.jpg</fanart><info> 
+
+[COLOR red]|[/COLOR]- COMO SERÁ QUE É? -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DRAMA[/COLOR][COLOR yellow] ||[/COLOR]</name>
