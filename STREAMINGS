@@ -1,4 +1,13 @@
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]OUTROS STREAMINGS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
+<thumbnail>https://i.ibb.co/dJMjf4tk/OU.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/refs/heads/main/OUTROS%20STREAMINGS</externallink>
+<fanart>https://i.ibb.co/jv2yB8MT/OUTROS-STREAMINGS.png</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Faltou nos outros, está aqui![/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]APPLE TV+[/COLOR][COLOR yellow] || [/COLOR][COLOR white]STREAMING[/COLOR]</name>
 <thumbnail>https://i.ibb.co/cb9m1RY/aplee-tv-fanart.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/STREAMINGS/main/APPLE-TV%2B</externallink>
