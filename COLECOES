@@ -242,6 +242,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]O REI LEÃO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/dGpIRn4Nqi63JO1RlKxjcPbQSAw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/O-REI-LE%C3%83O</externallink>
+<fanart>https://image.tmdb.org/t/p/original/jIgM7YNVft0YGeXsqrh3oG5TWLx.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]As Aventuras do sucesso Rei Leão[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]PADDINGTON[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/mhyPC0LWbtY4hJDcYsbJvqi0a19.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/PADDINGTON</externallink>
