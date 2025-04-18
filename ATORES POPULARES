@@ -71,6 +71,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HARRISON FORD[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/zVnHagUvXkR2StdOtquEwsiwSVt.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Harrison-Ford</externallink>
+<fanart>https://i.ibb.co/ynmYJwXX/harrison-ford.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Harrison Ford (Chicago, 13 de julho de 1942) é um ator estadunidense. Ford é mais conhecido pelas atuações como Han Solo na saga Star Wars, Indiana Jones na franquia Indiana Jones e Deckard em Blade Runner. Filho de pai irlandês e mãe judia russa, Ford frequentou a faculdade de Inglês e Filosofia. Estreou no cinema em 1966, fazendo uma ponta em O ladrão conquistador. Ford tornou-se mais conhecido com o papel de Han Solo, em Star Wars (1977). O personagem Indiana Jones, em Os Caçadores da Arca Perdida, de Steven Spielberg, em 1981, consolidou sua posição de estrela. Ele voltou a encarnar o papel de Indiana em outras três sequências da série. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]IDRIS ELBA[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/be1bVF7qGX91a6c5WeRPs5pKXln.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Idris-Elba</externallink>
