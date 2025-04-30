@@ -188,6 +188,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TOM HARDY[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Tom-Hardy</externallink>
+<fanart>https://i.ibb.co/QFGpyJfp/tom-hardy.jpg</fanart>
+<info> [COLOR red]|[/COLOR]- Edward Thomas "Tom" Hardy, (Hammersmith, Londres, 15 de setembro de 1977) é um ator, produtor e roteirista britânico conhecido pelos seus papéis em filmes como Inception, The Dark Knight Rises, Mad Max: Fury Road e Venom e também na série Peaky Blinders . Em 2016 foi indicado ao Óscar de melhor ator secundário pelo filme The Revenant. Em 2018 interpretou o personagem de quadrinhos americanos publicados pela Marvel Comics Eddie Brock no filme Venom. Fez sua terceira colaboração com o diretor Christopher Nolan no filme Dunkirk em 2017. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]VIOLA DAVIS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/xDssw6vpYNRjsybvMPRE30e0dPN.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Viola-Davis</externallink>
