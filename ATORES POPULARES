@@ -74,6 +74,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]GEORGE CLOONEY[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/George-Clooney</externallink>
+<fanart>https://i.postimg.cc/jq835Y5b/george-clooney.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]06-03-1961[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Lexington, Kentucky, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]George Timothy Clooney (Lexington, 6 de maio de 1961) é um ator, produtor, roteirista, e diretor de cinema e televisão, empresário e filantrópico norte-americano. É vencedor de quatro Globo de Ouros, três SAG Awards e dois Oscars, um de melhor ator coadjuvante por Syriana em 2006 e outro como produtor de Argo em 2012, ano que se consagrou segunda pessoa a conseguir ser indicado em seis categorias diferentes da premiação (Melhor Filme, Melhor Diretor; Melhor Roteiro Original, Melhor Roteiro Adaptado, Melhor Ator e Melhor Ator Coadjuvante), repetindo o feito de Walt Disney.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]GERARD BUTLER[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/n7sTgAGHyL3u9KIOVWjVLRA1fyi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Gerard-Butler</externallink>
