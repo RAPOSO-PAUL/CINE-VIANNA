@@ -296,6 +296,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]RAMBO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/sYeBbEYNRL2SgSpr97lhuHU6OqT.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/RAMBO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9vlISRco1XbV7xa038IpLcDtBSV.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Série de filmes de ação que segue John Rambo, veterano do Exército dos EUA traumatizado por sua experiência na Guerra do Vietnã, que usa suas habilidades para combater policiais corruptos, tropas inimigas e cartéis de drogas.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]RESIDENT EVIL[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/yFRXPR6/resident-evil-icon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/RESIDENT-EVIL</externallink>
