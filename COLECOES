@@ -260,6 +260,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]O CÃO E A RAPOSA[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/ph2KiQxp8xmgA5ENoBhETvJnYw9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/O-CAO-E-A-RAPOSA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/rtGHWe3rr3FgWNKA5eXqemr6mzo.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]A Coleção A Raposa e o Cão[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]O REI LEÃO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w1280/dGpIRn4Nqi63JO1RlKxjcPbQSAw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/O-REI-LE%C3%83O</externallink>
