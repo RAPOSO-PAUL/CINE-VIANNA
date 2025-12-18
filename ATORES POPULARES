@@ -143,6 +143,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JESSE-EISENBERG[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Jesse-Eisenberg</externallink>
+<fanart>https://i.postimg.cc/fyHhVcSq/JESSE-EISENBERG.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]05-10-1983[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]New York City, New York, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Jesse Adam Eisenberg é um ator, autor, humorista e dramaturgo americano. Nascido e criado na Cidade de Nova Iorque, Eisenberg começou a atuar em peças de teatro ainda criança. Ele estreou na televisão em Get Real (1999–2000) e no cinema em Roger Dodger (2002). Em 2009, Eisenberg estrelou em Adventureland com Kristen Stewart e em Zombieland com Emma Stone, Abigail Breslin e Woody Harrelson. No ano seguinte, ele interpretou Mark Zuckerberg, o fundador do Facebook, em The Social Network, e recebeu indicações ao BAFTA, Globo de Ouro, e Óscar.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JIM CARREY[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/u0AqTz6Y7GHPCHINS01P7gPvDSb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Jim-Carrey</externallink>
