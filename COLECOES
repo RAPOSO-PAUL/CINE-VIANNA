@@ -377,6 +377,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TRUQUE DE MESTRE[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/n0ygWnRip5RYnejdI6Lpwxov0x7.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/TRUQUE-DE-MESTRE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/aaf233l8tO87BioeFnE2tsNIJkD.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Nesta mistura visualmente espetacular de incríveis ilusões e cenas de ação de tirar o fôlego, o diretor Louis Leterrier (Fúria de Titãs) apresenta quatro talentosos ilusionistas que hipnotizam uma platéia internacional com uma série de golpes ousados e originais, seguindo indicações secretas que o FBI e a Interpol tentam desvendar para antecipar a próxima jogada.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TUBARÃO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/vqEEAuGD327SoVmnK7u8XXySjbX.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/TUBAR%C3%83O</externallink>
