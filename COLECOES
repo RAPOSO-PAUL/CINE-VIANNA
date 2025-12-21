@@ -251,6 +251,15 @@
 </channels
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MEU MALVADO FAVORITO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/95prV91f4DxkBnLU43YjLbU1m3q.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/MEU-MALVADO-FAVORITO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/i428ahSEoj2ju9xu1NLxstYJROb.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]A franquia se concentra em Gru, um super-vilão (que mais tarde se torna pai e super-herói); seus Minions de cor amarela; e suas três órfãs, Margo, Edith e Agnes.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]NACIONAIS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/y59VvPz/Nacionais-elementum.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/NACIONAIS</externallink>
