@@ -85,6 +85,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]EMMA STONE[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Emma-Stone</externallink>
+<fanart>https://i.ibb.co/rRcjgqhZ/EMMA-STONE.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]06-11-1988[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Scottsdale, Arizona, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Emily Jean Stone, mais conhecida como Emma Stone é uma atriz, dubladora e modelo norte-americana. Stone começou sua carreira como atriz mirim atuando em peças teatrais até ganhar reconhecimento pelo seus desempenhos em Superbad (2007) e Zumbilândia (2009). Recebeu aclamação da crítica pelo seu papel na comédia Easy A (2011) que a fez tornar uma das mais promissoras atrizes em Hollywood. Ganhou notoriedade também pelo seus desempenhos na comédia romântica Crazy Stupid Love (2012), e pelo drama aclamado pela critica The Help (2012). 2 vezes vencedora do Oscar, é uma das estrelas mais populares e influentes do Cinema Mundial.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]GEORGE CLOONEY[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/George-Clooney</externallink>
