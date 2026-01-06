@@ -1,13 +1,4 @@
 <channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]NATAL[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
-<thumbnail>https://i.postimg.cc/65zXQJVC/post-instagram-feliz-natal-elega.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/NATAL</externallink>
-<fanart>https://i.postimg.cc/FRtt69v0/Screenshot-16-(1).jpg</fanart>
-<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - HOJE A NOITE É BELA........[/B][/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]007[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/4CAIOJJa2GO6DMyONv3ncBtlT50.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/007</externallink>
@@ -159,6 +150,15 @@
 <info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Fé é o firme fundamento...[/B][/COLOR]</info>
 </channel>
 </channels> 
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FIVE NIGHTS AT FREDDY'S[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/mziuu7XpcnsOb6eRvHDi666U6Nc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/FIVE-NIGHTS-AT-FREDDYS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/dGd6T2LmDb4YCIuKkbsxWrzpHd3.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Uma série de filmes baseada nos jogos de videogame de mesmo nome criados por Scott Cawthon.[/B][/COLOR]</info>
+</channel>
+</channels>
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]GUARDIÕES DA GALÁXIA[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
