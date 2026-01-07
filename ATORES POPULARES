@@ -169,6 +169,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JAMES EARL JONES[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/oqMPIsXrl9SZkRfIKN08eFROmH6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/James-Earl-Jones</externallink>
+<fanart>https://i.ibb.co/spmbG9YZ/JAMES-EARL-JONES.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]17-01-1931[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Arkabutla, Mississippi, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]James Earl Jones (Arkabutla, Mississippi, 17 de Janeiro de 1931) é um ator e dublador norte-americano. Com mais de sete décadas de carreira e dono de uma voz profunda, é "um dos atores mais ilustres e versáteis da América" e considerado "um dos maiores atores da história americana". É também conhecido por seus trabalhos vocais, como a voz de Darth Vader na franquia Star Wars e pela voz de Mufasa, pai de Simba em Rei Leão. Jones também foi locutor da CNN durante as décadas de 80 e 90. Em 2011, recebeu o Oscar honorário pelo conjunto da obra.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JASON MOMOA[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/6dEFBpZH8C8OijsynkSajQT99Pb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Jason-Momoa</externallink>
