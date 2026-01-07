@@ -96,6 +96,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]EDDIE MURPHY[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Eddie-Murphy</externallink>
+<fanart>https://i.ibb.co/3Dm3g2Z/Screenshot-30.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]03-04-1961[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Brooklyn, New York City, New York, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Edward Regan "Eddie" Murphy (Brooklyn, Nova York, 3 de abril de 1961) é um comediante, premiado ator, dublador, roteirista, produtor, diretor e músico americano. O rendimento bruto dos filmes de Murphy fizeram dele o segundo ator de maior público nos Estados Unidos. Ele integrou o elenco do programa Saturday Night Live de 1980 a 1984 e trabalhou como comediante de stand-up. Ele é o número 10 na lista do Comedy Central dos 100 Maiores Stand-ups de todos os tempos. Murphy também é reconhecido como dublador, fazendo a voz de Thurgood Stubbs em The PJs, do Burro na franquia Shrek e do dragão Mushu no filme Mulan.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]EMMA STONE[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Emma-Stone</externallink>
