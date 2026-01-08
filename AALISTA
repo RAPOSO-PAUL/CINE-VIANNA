@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/p66hn6JWfBZe9kj2UdYp3p2LRsK.jpg" group-title="FILMES | CLÁSSICOS",Amanhecer Violento
+#EXTINF:-1 tvg-id="" tvg-name="Amanahecer Violento" tvg-logo="https://www.themoviedb.org/t/p/w1280/p66hn6JWfBZe9kj2UdYp3p2LRsK.jpg" group-title="FILMES: CLASSICOS",Amanhecer Violento
 https://archive.org/download/m-nh-3-c-3-r-u-10-l-3-nt-0/%40M%40NH3C3R-U10L3NT0.mkv
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="SERIES | CHAVES",TEMPORADA 7 EP 01
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E01" tvg-logo="https://www.themoviedb.org/t/p/w1280/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="SÉRIES: CHAVES",Chaves S07 E01
 https://archive.org/download/ch-7-1_202512/CH7-1.mkv
