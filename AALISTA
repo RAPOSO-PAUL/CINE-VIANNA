@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/p66hn6JWfBZe9kj2UdYp3p2LRsK.jpg" group-title="Filmes" parent-tvg-name="CLÁSSICOS",Filme Exemplo 1
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/p66hn6JWfBZe9kj2UdYp3p2LRsK.jpg" group-title="FILMES;CLÁSSICOS",Filme Exemplo 1
 link.do.video
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="Séries" parent-tvg-name="CHAVES",TEMPORADA 7 EP 01
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/nSpP9aS9LAQd7wwzzOoCAYIluco.jpg" group-title="Séries,CHAVES",TEMPORADA 7 EP 01
 https://archive.org/download/ch-7-1_202512/CH7-1.mkv
