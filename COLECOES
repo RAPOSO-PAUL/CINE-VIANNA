@@ -143,6 +143,15 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]EXTERMINIO[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/5PmzzDkwvejA9bJoKgKumAkcc91.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/EXTERMINIO</externallink>
+<fanart>https://image.tmdb.org/t/p/original/b3irEAJ9uoMV3olX5UVyxh92fNh.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Série de filmes de terror pós-apocalípticos focada em sobreviventes de uma doença transmitida pelo sangue chamada Rage que transforma os infectados em selvagens sem sentido, semelhantes a zumbis, cujas hordas dizimaram a população da Grã-Bretanha.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FÉ[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/SrbQZWd/fe.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/F%C3%89</externallink>
