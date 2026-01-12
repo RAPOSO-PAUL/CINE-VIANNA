@@ -251,6 +251,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]KICK-ASS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w1280/wBfgvWmNWK3d9w68n9KwkDQB4VH.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/KICK-ASS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kelR7BTeIP2ENVjmSz76lD3r5Ht.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]É uma coletânea de ação-comédia de super-herói britânico-americano com base no livro de quadrinhos Marvel, do mesmo nome, de Mark Millar e John Romita, Jr. O filme foi dirigido por Matthew Vaughn, que co-produziu com Brad Pitt, e co-escreveu o roteiro com Jane Goldman.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MARVEL[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/f0xOjoWCGyMFT6zgwW7ElxcXkic.jpg</thumbnail
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/MARVEL</externallink>
