@@ -59,6 +59,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]BRAD PITT[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Brad-Pitt</externallink>
+<fanart>https://i.ibb.co/5hF7fx6C/BRAD-PITT-1.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]18-12-1963[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Shawnee, Oklahoma, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]William Bradley "Brad" Pitt é um ator e produtor americano. É vencedor de diversos prêmios, dentre os quais um Oscar, dois Globos de Ouro, dois Screen Actors Guild e um BAFTA por atuação, e um Oscar, um BAFTA e um Emmy como produtor; é citado um dos mais bem pagos atores de de Hollywood. Pitt começou sua carreira de ator aparecendo em algumas séries de televisão como Dallas (1987). Posteriormente, ganhou reconhecimento como o cowboy J.D no filme Thelma and Louise (1991).[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]CHANNING TATUM[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/4TWmVfPdch0tvy1DLzVbof5HE7f.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Channing-Tatum</externallink>
