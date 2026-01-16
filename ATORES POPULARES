@@ -59,6 +59,17 @@
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]BEN AFFLECK[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Ben-Affleck</externallink>
+<fanart>https://i.ibb.co/rXsGbgk/Ben-Affleck.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]15-08-1972[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Berkeley, California, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Benjamin Géza Affleck-Boldt, mais conhecido como Ben Affleck, (Berkeley, 15 de agosto de 1972) é um premiado ator, diretor, cineasta, produtor cinematográfico e roteirista norte-americano. Começou sua carreira como ator mirim, protagonista na série educativa The Voyage of the Mimi (1984) e The Second Voyage of the Mimi (1988) da PBS. Mais tarde, ele apareceu em Jovens, Loucos e Rebeldes (1993) e os filmes de Kevin Smith Barrados no Shopping (1995), Procura-se Amy (1997), e Dogma (1999). Affleck ganhou fama e reconhecimento como escritor, quando ganhou o Oscar e o Globo de Ouro de Melhor Roteiro Original por Gênio Indomável (1997).[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]BRAD PITT[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Brad-Pitt</externallink>
