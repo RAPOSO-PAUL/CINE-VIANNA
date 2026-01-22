@@ -169,6 +169,8 @@ LETRA D
 </channel>
 </channels>
 
+LETRA E
+
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]EDDIE MURPHY[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg</thumbnail>
@@ -190,6 +192,8 @@ LETRA D
 [COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Emily Jean Stone, mais conhecida como Emma Stone é uma atriz, dubladora e modelo norte-americana. Stone começou sua carreira como atriz mirim atuando em peças teatrais até ganhar reconhecimento pelo seus desempenhos em Superbad (2007) e Zumbilândia (2009). Recebeu aclamação da crítica pelo seu papel na comédia Easy A (2011) que a fez tornar uma das mais promissoras atrizes em Hollywood. Ganhou notoriedade também pelo seus desempenhos na comédia romântica Crazy Stupid Love (2012), e pelo drama aclamado pela critica The Help (2012). 2 vezes vencedora do Oscar, é uma das estrelas mais populares e influentes do Cinema Mundial.[/B][/COLOR]</info>
 </channel>
 </channels>
+
+LETRA G
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]GEORGE CLOONEY[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -222,6 +226,8 @@ LETRA D
 </channel>
 </channels>
 
+LETRA H
+
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HARRISON FORD[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/5M7oN3sznp99hWYQ9sX0xheswWX.jpg</thumbnail>
@@ -233,6 +239,8 @@ LETRA D
 </channel>
 </channels>
 
+LETRA I
+
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]IDRIS ELBA[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/be1bVF7qGX91a6c5WeRPs5pKXln.jpg</thumbnail>
@@ -241,6 +249,8 @@ LETRA D
 <info> [COLOR red]|[/COLOR]- Idris Elba (nascido em 6 de setembro de 1972) é um ator britânico de televisão, teatro e cinema que atuou em produções britânicas e americanas. Um de seus primeiros papéis como ator foi na novela Family Affairs. Desde então, ele trabalhou em uma variedade de projetos de TV e cinema, incluindo Ultraviolet, The Wire, No Good Deed e Zootopia. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
+
+LETRA J
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JAMES EARL JONES[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -306,6 +316,8 @@ LETRA D
 </channel>
 </channels>
 
+LETRA K
+
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]KEANU REEVES[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg</thumbnail>
@@ -325,6 +337,8 @@ LETRA D
 [COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Kyle Martin Chandler é um ator de cinema e televisão americano mais conhecido por seus papéis nos programas de televisão Early Edition como Gary Hobson e Eric Taylor em Friday Night Lights. Descrição acima do artigo de Wikipedia Kyle Chandler, licenciado sob CC-BY-SA, lista completa de contribuinte em Wikipedia.[/B][/COLOR]</info>
 </channel>
 </channels>
+
+LETRA L
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LAURA DERN[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -359,6 +373,8 @@ LETRA D
 [/B][/COLOR]</info>
 </channel>
 </channels>
+
+LETRA M
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MACAULAY CULKIN[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -401,6 +417,17 @@ LETRA D
 </channels>
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MEL GIBSON[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_face/4wEWS5NgioKBGTi5fdv2BP3b4ZY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Mel-Gibson</externallink>
+<fanart>https://i.ibb.co/4wVFbs18/MEL-GIBSON.jpg</fanart>
+<info>[COLOR lime][B]ANO DE NASCIMENTO:[/B][/COLOR] [COLOR white][B]03-01-1956[/B][/COLOR]
+[COLOR lime][B]ONDE NASCEU:[/B][/COLOR] [COLOR white][B]Peekskill, New York, USA[/B][/COLOR]
+[COLOR yellow][B]BIOGRAFIA:[/B][/COLOR] [COLOR white][B]Mel Columcille Gerard Gibson é ator, diretor de cinema, produtor e roteirista. Nascido em Peekskill, Nova York, Gibson mudou-se com seus pais para Sydney, Austrália, quando tinha 12 anos e mais tarde estudou atuação no Instituto Nacional de Arte Dramática da Austrália. Depois de aparecer nas séries "Mad Max" e "Arma Letal", Gibson dirigiu e estrelou o vencedor do Oscar "Coração Valente" (1995). Em 2004, ele dirigiu e produziu "A Paixão de Cristo", um filme polêmico, mas de sucesso, que retrata as últimas horas na vida de Jesus Cristo.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]MILLIE BOBBY BROWN[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/3Qblbk5JIMxzlGVd1k1ucSKK7rf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/ATORES-FILMES-E-SERIES/refs/heads/main/Millie-Bobby-Brown</externallink>
@@ -408,6 +435,8 @@ LETRA D
 <info> [COLOR red]|[/COLOR]- Millie Bobby Brown (Málaga, 19 de fevereiro de 2004) é uma atriz britânica nascida na Espanha. Começou sua carreira de atriz quando se mudou para Orlando, nos Estados Unidos. Brown atualmente mora com a família em Los Angeles. Millie ficou conhecida mundialmente ao interpretar a personagem Eleven na websérie americana Stranger Things. Também atuou na série da BBC Intruders. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
+
+LETRA R
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]RAÚL JULIÁ[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -435,6 +464,8 @@ LETRA D
 <info> [COLOR red]|[/COLOR]- Russell Ira Crowe (Wellington, 7 de abril de 1964) é um premiado ator e produtor de cinema neozelandês. Depois do sucesso inicial na Austrália, onde sua família mora desde sua infância, tornou-se um ator de Hollywood no meio da década de 1990; ele ganhou o Oscar de Melhor Ator em 2001 por Gladiator. Ele foi indicado mais duas vezes ao prêmio: em 2000, um ano antes de ter vencido por o Gladiator, ele recebeu indicação por The Insider (prêmio vencido por Kevin Spacey pela atuação em American Beauty); em 2002, ele foi indicado por A Beautiful Mind (prêmio vencido por Denzel Washington por sua atuação em Training Day). -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
+
+LETRA S
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]SCOTT ADKINS[/COLOR][COLOR yellow] ||[/COLOR]</name>
@@ -498,6 +529,8 @@ LETRA D
 </channel>
 </channels>
 
+LETRA T
+
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]TOM HARDY[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg</thumbnail>
@@ -507,6 +540,8 @@ LETRA D
 </channel>
 </channels>
 
+LETRA V
+
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]VIOLA DAVIS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://media.themoviedb.org/t/p/w600_and_h900_bestv2/xDssw6vpYNRjsybvMPRE30e0dPN.jpg</thumbnail>
@@ -515,6 +550,8 @@ LETRA D
 <info> [COLOR red]|[/COLOR]- Viola Davis (St. Matthews, 11 de agosto de 1965) é uma premiada atriz norte-americana, considerada uma das melhores de sua geração. Vencedora de dois Tony Award e um Emmy do Primetime, a atriz foi indicada ao Oscar de melhor atriz coadjuvante em 2009 por sua atuação no filme Doubt; no mesmo ano, atuou no filme Law Abiding Citizen. Em 2011, atuou como Aibileen Clark na adaptação cinematográfica do livro de Kathryn Stockett The Help pelo qual foi indicada ao Globo de Ouro de Melhor Atriz em filme dramático e ao Oscar de Melhor Atriz. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
+
+LETRA W
 
 <channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]WAGNER MOURA[/COLOR][COLOR yellow] ||[/COLOR]</name>
