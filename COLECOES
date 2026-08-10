@@ -233,6 +233,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JACKASS[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gi1Ygc102Lw1R9gTNG7cJznSaev.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/refs/heads/main/JACKASS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/8al8kWGbUbdvngSR72YLtKqtdf.jpg</fanart>
+<info>[COLOR yellow][B]|| [/B][/COLOR] [COLOR white][B]Os filmes de Jackass mostram pessoas realizando várias acrobacias e pegadinhas perigosas, grosseiras, ridículas e que causam autolesões.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]JOHN WICK[/COLOR][COLOR yellow] || [/COLOR][COLOR white]COLEÇÕES[/COLOR]</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/41CVGwXoXkcozabIiCXpPSunLjZ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/COLECOES/main/JOHN-WICK</externallink>
